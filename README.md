@@ -14,9 +14,9 @@ A modern showcase website for a local pizzeria, built with HTML, CSS, and JavaSc
 - JavaScript
 
 ## Screenshots
-![Homepage]()
-![Menu]()
-![Contact]()
+![Homepage](https://github.com/InesMohammedi7/pizzeria-website/blob/f9228ff58fb9e3a499f4862d94e5e3ab9382f08a/home_page.png)
+![Menu](https://github.com/InesMohammedi7/pizzeria-website/blob/f9228ff58fb9e3a499f4862d94e5e3ab9382f08a/menu.png)
+![Contact](https://github.com/InesMohammedi7/pizzeria-website/blob/f9228ff58fb9e3a499f4862d94e5e3ab9382f08a/contact.png)
 
 
 ## Note
