@@ -14,7 +14,10 @@ A modern showcase website for a local pizzeria, built with HTML, CSS, and JavaSc
 - JavaScript
 
 ## Screenshots
-*(Screenshots to be added soon)*
+![Homepage]()
+![Menu]()
+![Contact]()
+
 
 ## Note
 The full source code is kept private to protect proprietary logic. 
